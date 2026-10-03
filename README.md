@@ -4,9 +4,9 @@ Senior Full-Stack Engineer & Tech Lead · 8+ years · Mexico (US Central Time)
 
 I build production web and mobile products, and AI automations that businesses run on every day.
 
-**Stack:** Next.js · React · Node/NestJS · TypeScript · GraphQL (Apollo Federation) · PostgreSQL/Supabase · React Native/Expo · AWS · Python
-**AI:** LLM agents and RAG (LangChain/LangGraph, OpenAI, Claude, DeepSeek) · evals and observability (Langfuse) · deterministic tool-calling
-**Automation:** self-hosted n8n · WhatsApp Business Cloud API · Telegram · Meta Graph API
+- **Stack:** Next.js · React · Node/NestJS · TypeScript · GraphQL (Apollo Federation) · PostgreSQL/Supabase · React Native/Expo · AWS · Python
+- **AI:** LLM agents and RAG (LangChain/LangGraph, OpenAI, Claude, DeepSeek) · evals and observability (Langfuse) · deterministic tool-calling
+- **Automation:** self-hosted n8n · WhatsApp Business Cloud API · Telegram · Meta Graph API
 
 ## Recent work
 
